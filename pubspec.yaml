@@ -12,7 +12,7 @@ dependencies:
   hex: ^0.2.0
   gbk_codec: ^0.4.0
   image_v3: 
-    path: packages/image-3.3.0
+    git: https://github.com/manhtai831/image_v3
 
 dev_dependencies:
   flutter_test:
