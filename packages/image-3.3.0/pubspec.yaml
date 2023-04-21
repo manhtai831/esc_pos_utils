@@ -6,7 +6,6 @@ description: >-
   TGA, PSD, PVR, and OpenEXR.
 homepage: https://github.com/brendan-duncan/image
 documentation: https://github.com/brendan-duncan/image/wiki
-publish_to: none
 
 environment:
   sdk: '>=2.15.0 <3.0.0'
